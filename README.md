@@ -9,7 +9,7 @@ The application contains following features:
 7. Requests are being handled properly, in case of improper input or request.
 
 Steps to setup the application.
-1. Clone the github repository in your local computer
+1. Clone the github repository in your local computer.
 2. Open the local repository folder in your terminal and type the command "npm install" to install all the necessary packages required to run the application.
 3. Enter the command "npm run start" in your terminal in order to start the application using nodemon
 4. That's it! now you can test the api using postman or any other relevant software.
